@@ -1,5 +1,5 @@
 <p align="center">
-  ![](./imagenes/ReactJS.png)
+  <img src="./imagenes/ReactJS.png">
 </p>
 
 A little Pokedex coded in ReactJs with the help of the pokemon API. 
