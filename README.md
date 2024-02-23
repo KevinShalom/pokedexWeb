@@ -1,4 +1,4 @@
-![](./imagenes/ReactJS.jpg)
+![](./imagenes/ReactJS.png)
 A little Pokedex coded in ReactJs with the help of the pokemon API. 
 
 Simple pokedex from generation 1 to 7
